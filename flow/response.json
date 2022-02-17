@@ -14,7 +14,6 @@
         "replyMessage":[
             "El flujo ha finalizado \n",
             "pero puedes ver todo el codigo de este \n",
-            "repositorio en https://github.com/leifermendez/bot-whatsapp.git"
         ],
         "media":null,
         "trigger":null
