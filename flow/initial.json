@@ -4,7 +4,6 @@
             "hola",
             "hola!",
             "ola",
-            "hi",
             "ole",
             "inicio",
             "welcome",
@@ -12,7 +11,7 @@
             "buenas tardes",
             "buenas noches",
             "me dieron este número",
-            "necesito ayuda",
+            "venden a crédito",
             "quisiera saber si venden",
             "necesito saber"
         ],
@@ -20,52 +19,68 @@
     },
     {
         "keywords":  [
-            "cursos",
-            "info",
-            "curso"
+            "necesito ayuda",
+            "agente",
+            "soporte",
+            "hola",
+            "no pasa mi pago",
+            "¿cuando llega mi entrega?"
         ],
         "key": "STEP_2"
     },
     {
         "keywords":  [
-            "angular"
+            "1"
         ],
         "key": "STEP_2_1"
     },
     {
         "keywords":  [
-            "node"
+            "2"
         ],
         "key": "STEP_2_2"
     },
     {
         "keywords":  [
-            "ngrx"
+            "3"
         ],
         "key": "STEP_2_3"
     },
     {
         "keywords":  [
-            "aws"
+            "1"
         ],
-        "key": "STEP_2_4"
+        "key": "STEP_3_1_1"
     },
     {
         "keywords":  [
-            "asesor",
-            "asesores",
-            "Vendedor",
-            "cobrador"
+            "2"
+
         ],
-        "key": "STEP_3"
+        "key": "STEP_3_1_2"
     },
     {
         "keywords":  [
-            "muchas gracias",
-            "ok",
-            "gracias",
-            "vale gracias"
+            "3"
         ],
-        "key": "STEP_4"
+        "key": "STEP_3_1_3"
+    },
+    {
+        "keywords":  [
+            "4"
+        ],
+        "key": "STEP_3_1_4"
+    },
+    {
+        "keywords":  [
+            "😎 Cursos"
+        ],
+        "key": "STEP_6"
+    },
+    {
+        "keywords":  [
+            "😁 Telegram"
+        ],
+        "key": "STEP_7"
     }
 ]
