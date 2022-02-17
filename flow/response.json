@@ -21,10 +21,11 @@
     },
     "STEP_1":{
         "replyMessage":[
-            "✌️ Bienvenido a este 🤖 CHATBOT de Whatsapp, lo primero \n",
-            "decirte que mi nombre es *Leifer Mendez*😎  \n",
-            "\n Si necesitas ver más info sobre las capacitacion tecnicas ",
-            "escribe *cursos* o *info*"
+            "Hola ¿Comó podemos ayudarte? \n",
+            "Escribe el número de la opción que representa tu duda \n",
+            "\n 1️⃣ Necesito ayuda con la tienda en línea \n",
+            "2️⃣ Necesito ayuda con el cotizador de impresión 3D \n",
+            "3️⃣ Otras dudas\n"
         ],
         "media":null,
         "trigger":null
