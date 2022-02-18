@@ -21,30 +21,23 @@
     "STEP_1":{
         "replyMessage":[
             "Hola ¿Comó podemos ayudarte? \n"
+            "Escribe el número de la opción que representa tu duda \n",
+            "\n 1️⃣ Necesito ayuda con la tienda en línea \n",
+            "2️⃣ Necesito ayuda con el cotizador de impresión 3D \n",
+            "3️⃣ Otras dudas"
         ],
         "media":null,
         "trigger":null
     },
     "STEP_2":{
         "replyMessage":[
-            "Escribe el número de la opción que representa tu duda \n",
-            "Escribe el número de la opción que representa tu duda \n",
-            "\n 1️⃣ Necesito ayuda con la tienda en línea \n",
-            "2️⃣ Necesito ayuda con el cotizador de impresión 3D \n",
-            "3️⃣ Otras dudas\n"
-        ],
-        "media":"https://i.giphy.com/media/5J5gN0WUk0VToHaK2p/giphy-downsized.gif",
-        "trigger":null
-    },
-    "STEP_2_1":{
-        "replyMessage":[
-            "1. No puedo realizar una compra \n",
-            "2. Ayuda para comprar \n\n",
-            "3. ¿Donde esta mi pedido? \n\n",
-            "4. Otros\n\n",
+            "A. No puedo realizar una compra \n",
+            "B. Ayuda para comprar \n\n",
+            "C. ¿Donde esta mi pedido? \n\n",
+            "D. Otros\n\n",
             "😎😎😎"
         ],
-        "media":"https://i.imgur.com/Q0a5UQI.jpg",
+        "media":null,
         "trigger":null
     },
     "STEP_2_2":{
@@ -53,8 +46,7 @@
             "2. El cotizador no funciona \n",
             "3. Quiero personalizar con más opciones mi impresión 3D"
         ],
-        "media":null,
-        "trigger":null
+
     },
     "STEP_2_3":{
         "replyMessage":[
