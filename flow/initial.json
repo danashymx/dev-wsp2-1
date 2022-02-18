@@ -19,30 +19,19 @@
     },
     {
         "keywords":  [
-            "necesito ayuda",
-            "agente",
-            "soporte",
-            "hola",
-            "no pasa mi pago",
-            "¿cuando llega mi entrega?"
+            "A"
         ],
         "key": "STEP_2"
     },
     {
         "keywords":  [
-            "1"
-        ],
-        "key": "STEP_2_1"
-    },
-    {
-        "keywords":  [
-            "2"
+            "B"
         ],
         "key": "STEP_2_2"
     },
     {
         "keywords":  [
-            "3"
+            "C"
         ],
         "key": "STEP_2_3"
     },
